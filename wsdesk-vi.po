@@ -1,0 +1,2300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WSDesk - Wordpress HelpDesk & Support Ticket System "
+"(BASIC)\n"
+"POT-Creation-Date: 2018-09-06 08:17+0700\n"
+"PO-Revision-Date: 2018-09-06 10:30+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-WPHeader: wsdesk.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-crm-ajax-functions.php:219
+#: includes/class-crm-js-translation.php:44
+msgid "Add Value"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:220
+msgid "Edit Details for custom"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:221
+#: includes/class-crm-js-translation.php:46
+msgid "Enter Title"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:243
+#: includes/class-crm-ajax-functions.php:261
+#: includes/class-crm-ajax-functions.php:302
+#: includes/class-crm-ajax-functions.php:343
+#: includes/class-crm-ajax-functions.php:394
+#: includes/class-crm-ajax-functions.php:414
+#: includes/class-crm-ajax-functions.php:435
+msgid "Visible for End Users"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:244
+#: includes/class-crm-ajax-functions.php:262
+#: includes/class-crm-ajax-functions.php:303
+#: includes/class-crm-ajax-functions.php:344
+#: includes/class-crm-ajax-functions.php:395
+#: includes/class-crm-ajax-functions.php:415
+#: includes/class-crm-ajax-functions.php:436
+msgid "Mandatory for End users"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:245
+msgid "Specify whether this Field is Single or Multiple Attachment?"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:245
+msgid "Single Attachment"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:245
+msgid "Multiple Attachment"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:246
+#: includes/class-crm-ajax-functions.php:287
+#: includes/class-crm-ajax-functions.php:328
+#: includes/class-crm-ajax-functions.php:377
+#: includes/class-crm-ajax-functions.php:399
+#: includes/class-crm-ajax-functions.php:418
+#: includes/class-crm-ajax-functions.php:441
+msgid "Want to update description to this field?"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:263
+#: includes/class-crm-ajax-functions.php:304
+#: includes/class-crm-ajax-functions.php:345
+#: includes/class-crm-ajax-functions.php:396
+#: includes/class-crm-ajax-functions.php:416
+#: includes/class-crm-ajax-functions.php:437
+msgid "Mandatory for Agents"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:264
+#| msgid "Specify Radio values"
+msgid "Update the Radio values!"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:274
+#: includes/class-crm-ajax-functions.php:315
+#: includes/class-crm-ajax-functions.php:355
+#: includes/class-crm-ajax-functions.php:364
+#: includes/class-crm-js-translation.php:71
+msgid "Remove Values"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:286
+#: includes/class-crm-ajax-functions.php:327
+#: includes/class-crm-ajax-functions.php:376
+#: includes/class-crm-ajax-functions.php:398
+#: includes/class-crm-ajax-functions.php:440
+#: includes/class-crm-js-translation.php:55
+msgid "Enter Default Values"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:305
+#| msgid "Specify the Checkbox values"
+msgid "Update the Checkbox values!"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:346
+#: includes/class-crm-ajax-functions.php:417
+#: includes/class-crm-ajax-functions.php:439
+#: includes/class-crm-js-translation.php:69
+msgid "Enter Placeholder"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:347
+#| msgid "Specify the Dropdown values"
+msgid "Update the Dropdown values!"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:1231
+#: views/tickets/crm_tickets_all.php:273 views/tickets/crm_tickets_all.php:457
+msgid "Assignee"
+msgstr "Giao cho"
+
+#: includes/class-crm-ajax-functions.php:1265
+msgid "CC"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:1265
+msgid "To add multiple CC, separate each address with comma without any space."
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:1275
+msgid "Bcc"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:1295
+#: views/agents/crm_agents_manage.php:181 views/tickets/crm_tickets_all.php:463
+msgid "Tags"
+msgstr "Thẻ"
+
+#: includes/class-crm-ajax-functions.php:3126
+msgid "You must Login to Check your Existing Ticket"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:3126
+#: views/support/crm_support_new.php:15
+msgid "Login"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:3127
+msgid "Need an Account?"
+msgstr ""
+
+#: includes/class-crm-ajax-functions.php:3127
+#: views/support/crm_support_new.php:16
+msgid "Register"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:102 wsdesk.php:161
+msgid "Tickets"
+msgstr "Đề xuất"
+
+#: includes/class-crm-init-handler.php:105 wsdesk.php:162
+msgid "Settings"
+msgstr "Cấu hình"
+
+#: includes/class-crm-init-handler.php:109
+msgid "Agents"
+msgstr "Người xét duyệt"
+
+#: includes/class-crm-init-handler.php:111
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: includes/class-crm-init-handler.php:113
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: includes/class-crm-init-handler.php:114
+msgid "Import"
+msgstr "Nhập"
+
+#: includes/class-crm-init-handler.php:115 views/crm_settings_view.php:47
+#: wsdesk.php:163
+msgid "Premium Upgrade"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:230
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:232
+msgid "Would you like us to assist you?"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:236
+msgid "I found a better plugin"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:238
+msgid "Which plugin?"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:242
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:244
+msgid "Could you tell us more about that feature?"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:248
+msgid "The plugin is not working"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:250
+msgid "Could you tell us a bit more whats not working?"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:254
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:260
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:262
+msgid "What did you expect?"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:266
+msgid "Other"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:268
+msgid "Could you tell us a bit more?"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:289
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:303
+msgid "Contact me back"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:305
+msgid ""
+"Check this box to let us collect your email along with your feedback, so "
+"that we can contact you back to address your concern."
+msgstr ""
+
+#: includes/class-crm-init-handler.php:311
+msgid ""
+"You can also contact us through the \n"
+"                        <a href=\"https://wordpress.org/support/plugin/wsdesk"
+"\">support page.</a>"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:317
+msgid "I rather wouldn't say"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:318
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: includes/class-crm-init-handler.php:319 views/agents/crm_agents_add.php:99
+#: views/email/crm_filter_block_setup.php:42
+#: views/settings/crm_settings_fields.php:96
+#: views/settings/crm_settings_fields.php:125
+#: views/settings/crm_settings_labels.php:45
+#: views/settings/crm_settings_labels.php:68
+#: views/settings/crm_settings_tags.php:68
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:12
+#, fuzzy
+msgid "Choose the Vendor(s)"
+msgstr "Chọn nhà cung cấp"
+
+#: includes/class-crm-js-translation.php:13
+msgid "No Vendor Found"
+msgstr "Không tìm thấy nhà cung cấp"
+
+#: includes/class-crm-js-translation.php:14
+msgid "No Status Found"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:15
+#, fuzzy
+msgid "Select Ticket Status"
+msgstr "Chọn Trạng thái đề xuất"
+
+#: includes/class-crm-js-translation.php:16
+msgid "Select Ticket Fields"
+msgstr "Loại đề xuất"
+
+#: includes/class-crm-js-translation.php:17
+msgid "No Fields Found"
+msgstr "không tìm thấy loại đề xuất"
+
+#: includes/class-crm-js-translation.php:18
+msgid "Select Ticket Views"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:19
+msgid "No Views Found"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:20
+msgid "Select Triggers"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:21
+msgid "No Triggers Found"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:22
+#, fuzzy
+msgid "Search and Choose"
+msgstr "Tìm & Chọn"
+
+#: includes/class-crm-js-translation.php:23
+msgid "No Posts Found"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:24
+msgid "Select Ticket Tags"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:25
+#: includes/class-crm-js-translation.php:144
+msgid "No Tags Found"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:26 views/crm_settings_view.php:6
+#: views/crm_settings_view.php:13
+#, fuzzy
+msgid "General"
+msgstr "Cấu hình"
+
+#: includes/class-crm-js-translation.php:27 views/crm_settings_view.php:16
+#: views/settings/crm_settings_fields.php:30
+#, fuzzy
+msgid "Ticket Fields"
+msgstr "Loại đề xuất"
+
+#: includes/class-crm-js-translation.php:28
+#: includes/class-crm-js-translation.php:74 views/crm_settings_view.php:19
+#: views/settings/crm_settings_labels.php:13
+#, fuzzy
+msgid "Ticket Status"
+msgstr "Trạngthái"
+
+#: includes/class-crm-js-translation.php:29
+#: includes/class-crm-js-translation.php:77 views/crm_settings_view.php:22
+#: views/settings/crm_settings_tags.php:13
+#, fuzzy
+msgid "Ticket Tags"
+msgstr "Thẻ đề xuất"
+
+#: includes/class-crm-js-translation.php:30 views/crm_settings_view.php:25
+msgid "Ticket Views"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:31 views/crm_settings_view.php:28
+#: views/settings/crm_settings_premium.php:49
+#: views/settings/crm_settings_premium.php:80 views/welcome/welcome.php:529
+msgid "Triggers & Automation"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:32 views/crm_settings_view.php:41
+msgid "Form Settings"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:33 views/crm_settings_view.php:44
+#, fuzzy
+msgid "Backup & Restore"
+msgstr "Sao lưu & phục hồi"
+
+#: includes/class-crm-js-translation.php:34
+msgid "Activation of WSDesk"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:35
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:36
+#: includes/class-crm-js-translation.php:172
+msgid "Updated and Saved Successfully"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:37
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:38
+msgid "Appearance Settings"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:39
+msgid "Add Ticket Field"
+msgstr "Thêm loại đề xuất"
+
+#: includes/class-crm-js-translation.php:40
+msgid "Enter title for the Field"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:41
+msgid "Default Value is not Matched"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:42
+msgid "Site Key and Secret Key is Required"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:43
+#, fuzzy
+msgid "Edit Ticket Field"
+msgstr "Sửa loại"
+
+#: includes/class-crm-js-translation.php:45
+msgid "Enter details for custom"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:47
+msgid "Enter Site Key"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:48
+msgid "Enter Secret Key"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:49
+msgid "Want to give some description to this field?"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:50
+msgid "Specify whether this field is mandatory or not"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:51
+msgid "Yes! This Field is Mandatory"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:52
+msgid "No! It's an Optional Field"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:53
+msgid "Auto fill products"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:54
+msgid "Specify Product values"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:56
+msgid "Want to use this field to filter tickets"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:57
+msgid "Yes! I will use it to filter tickets"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:58
+#: views/settings/crm_settings_labels.php:57
+msgid "No! Just for Information"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:59
+msgid "Auto fill categories"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:60
+msgid "Specify Category values"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:61
+msgid "Specify Tag values"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:62
+msgid "Auto fill tags"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:63
+msgid "Specify the Vendor"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:64
+msgid "Auto fill Vendors"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:65
+msgid "Specify Radio values"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:66
+msgid "Enter first value"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:67
+msgid "Specify the Checkbox values"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:68
+msgid "Specify the Dropdown values"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:70
+msgid "Enter next value"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:72
+msgid "Add Ticket Status"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:73
+msgid "Enter status"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:75
+msgid "Add Ticket Tag"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:76
+msgid "Enter title for the Tag"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:78
+msgid "Condition"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:79
+msgid "Enter Value"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:80
+msgid "View condition field"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:81
+msgid "Remove Condition"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:82
+msgid "Enter Period for New Trigger"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:83
+msgid "Edit Period for the Trigger"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:84
+msgid "Trigger condition field"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:85
+msgid "Add Trigger"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:86
+msgid "Enter title for the Trigger"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:87
+msgid "Specify some action for the Trigger"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:88
+msgid "Edit Trigger"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:89
+msgid "Triggers"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:90
+msgid "Select Condition Values"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:91
+msgid "No Values Found"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:92
+#, fuzzy
+msgid "Action"
+msgstr "Hành Động"
+
+#: includes/class-crm-js-translation.php:93
+msgid "Trigger Action field"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:94
+msgid "Remove Action"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:95
+msgid "Backup & Restore Alert"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:96
+msgid "Choose some data to Backup"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:97
+msgid "WSDesk Restore Alert"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:98
+msgid "Keep Calm while Restoring Data. Don\\'t Refresh the Page"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:99
+msgid "Yes! I Will Wait"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:100
+msgid "Restore Finished"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:101
+msgid "Refresh and Hit to go"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:102
+msgid "Select a Backup File"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:103
+msgid "Specify the Mail Subject"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:104
+#, fuzzy
+msgid "Enter mail subject"
+msgstr "nhập tiêu đề thư"
+
+#: includes/class-crm-js-translation.php:105
+msgid "Codes for Notification EMail"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:106
+msgid "To Insert Ticket Number in the notification email"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:107
+msgid "To Insert Ticket Assignee in the notification email"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:108
+msgid "To Insert Ticket Tags in the notification mail"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:109
+msgid "To Insert Ticket Date and Time in the notification email"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:110
+msgid "To Insert Ticket Content in the notification email"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:111
+msgid "To Insert Satisfaction URL in the notification email"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:112
+msgid "To Insert Conversation History in the notification email"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:113
+msgid ""
+"Note : For Satisfaction Survey place the [wsdesk_satisfaction] shortcode in "
+"new page."
+msgstr ""
+
+#: includes/class-crm-js-translation.php:114
+msgid "Specify the Mail Body"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:115
+msgid "Enter mail body"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:116
+msgid "Select Action Values"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:122
+msgid "WSDesk Alert"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:123
+msgid "Do You want to Delete Ticket?"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:124
+#, fuzzy
+msgid "Yes! Delete"
+msgstr "Xác nhận xóa"
+
+#: includes/class-crm-js-translation.php:125
+msgid "WSDesk Tickets Notification"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:126
+msgid "Tickets Deleted Successfully"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:127
+msgid "Do You want to Update Tickets Status?"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:128
+msgid "Yes! Update"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:129
+msgid "Tickets Updated Successfully"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:130
+#, fuzzy
+msgid "New Ticket Created Successfully"
+msgstr "Tạo đề xuất thành công"
+
+#: includes/class-crm-js-translation.php:131
+msgid "missing some data"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:132
+msgid "Replied Successfully"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:133
+msgid "needs reply content"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:134
+msgid "No results found"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:135
+msgid "Select Tag"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:136
+msgid "No Tags Tagged"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:143
+msgid "Search - (Eg:Support)"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:145
+msgid "Select existing users"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:146
+msgid "No Users Found"
+msgstr "không tìm thấy người dùng"
+
+#: includes/class-crm-js-translation.php:147
+msgid "Add Agents"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:148
+msgid "Manage Agents"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:149 views/agents/crm_agents_add.php:66
+#: views/agents/crm_agents_main.php:7 views/welcome/welcome.php:50
+msgid "WSDesk Agents"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:150
+msgid "Agents Updated Successfully"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:151
+msgid "Agents Removed Successfully"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:152
+msgid "Agents added Successfully"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:153
+msgid "Show Settings Page"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:154
+msgid "Show Agents Page"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:155
+msgid "Show Email Page"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:156
+msgid "Show Import Page"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:162
+msgid "Google OAuth Setup"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:163
+msgid "IMAP EMail Setup"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:164 views/crm_email_view.php:6
+msgid "Support Email"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:165 views/crm_email_view.php:22
+msgid "EMail Filter & Block"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:166
+msgid "Select EMail"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:167
+msgid "No Address Found"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:168
+msgid "Block Email"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:169
+msgid "Enter Email to Block"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:170
+msgid "Google OAuth Revoked"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:171
+msgid "IMAP EMail Deactivated"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:178
+msgid "Select Products for Reports"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:179
+msgid "No Products Found"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:180
+msgid "Select Category for Reports"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:181
+msgid "No Category Found"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:187 views/crm_import_view.php:6
+#: views/crm_import_view.php:13
+msgid "From Zendesk"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:188
+msgid "Zendesk Import"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:189
+msgid "Tickets Import Successful"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:190
+#, fuzzy
+msgid "Something Went Wrong"
+msgstr "lỗi ko xác định"
+
+#: includes/class-crm-js-translation.php:191
+msgid "Import Stopped Manually"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:25
+msgid "Add Users"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:29
+msgid "Create new user"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:29
+msgid ""
+"Please note that “Customer” & “Subscriber” role is not eligible for adding "
+"as an “Agent”"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:49
+msgid "User Email"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:53 views/email/crm_imap_setup.php:53
+#: views/settings/crm_settings_fields.php:104
+msgid "Password"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:61
+msgid "WSDesk Role"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:64
+msgid "Roles for the selected users"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:67
+msgid "WSDesk Supervisor"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:73
+msgid "WSDesk Rights"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:76
+msgid "User(s) are entitled to the following rights"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:78
+msgid "Reply to Tickets"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:79 views/agents/crm_agents_manage.php:68
+#: views/agents/crm_agents_manage.php:95
+msgid "Delete Tickets"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:80 views/agents/crm_agents_manage.php:71
+#: views/agents/crm_agents_manage.php:96
+msgid "Manage Tickets"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:86
+msgid "Add tags"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:89
+msgid ""
+"Depending on the tags, the tickets will be assigned automatically to the "
+"default assignee"
+msgstr ""
+
+#: views/agents/crm_agents_add.php:98 views/email/crm_email_support.php:176
+#: views/email/crm_filter_block_setup.php:58
+#: views/email/crm_filter_block_setup.php:75
+#: views/settings/crm_settings_appearance.php:72
+#: views/settings/crm_settings_fields.php:134
+#: views/settings/crm_settings_general.php:290
+#: views/settings/crm_settings_labels.php:76
+msgid "Save Changes"
+msgstr ""
+
+#: views/agents/crm_agents_main.php:8
+msgid "Add Agent / Supervisor"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:65 views/agents/crm_agents_manage.php:94
+msgid "Reply Tickets"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:74 views/agents/crm_agents_manage.php:97
+msgid "Manage Templates"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:77 views/agents/crm_agents_manage.php:98
+msgid "Settings Manage"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:80 views/agents/crm_agents_manage.php:99
+msgid "Agents Manage"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:83 views/agents/crm_agents_manage.php:100
+msgid "Import Manage"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:86 views/agents/crm_agents_manage.php:101
+msgid "Email Manage"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:104
+msgid "No Capabilities Assigned"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:120
+#: views/agents/crm_agents_manage.php:124
+msgid "No Tags Mapped"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:170
+msgid "Roles"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:171
+#: views/settings/crm_settings_fields.php:109
+msgid "Email"
+msgstr "Email"
+
+#: views/agents/crm_agents_manage.php:172
+msgid "Capability"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:192
+msgid "Overall Replies"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:193
+msgid "Edit Profile"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:197
+msgid "Tickets Assigned"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:198
+msgid "View Reports"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:202
+msgid "Support Rating"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:205 views/tickets/crm_tickets_all.php:456
+#, fuzzy
+msgid "Actions"
+msgstr "Hành Động"
+
+#: views/agents/crm_agents_manage.php:208
+msgid "Remove WSDesk Role"
+msgstr ""
+
+#: views/agents/crm_agents_manage.php:229
+msgid "No WSDesk role assigned to any users / No Agents added"
+msgstr ""
+
+#: views/crm_email_view.php:5
+msgid "WSDesk E-Mail"
+msgstr ""
+
+#: views/crm_email_view.php:13
+msgid "Support Email - (Outgoing)"
+msgstr ""
+
+#: views/crm_email_view.php:16
+msgid "Google OAuth Setup - (Incoming)"
+msgstr ""
+
+#: views/crm_email_view.php:19
+msgid "IMAP EMail Setup - (Incoming)"
+msgstr ""
+
+#: views/crm_import_view.php:5
+msgid "Import Tickets"
+msgstr ""
+
+#: views/crm_reports_view.php:48
+msgid "WSDesk Reports"
+msgstr ""
+
+#: views/crm_reports_view.php:51
+#, fuzzy
+msgid "Select the Agents/Supervisors to show report"
+msgstr "Chọn người báo cáo"
+
+#: views/crm_reports_view.php:78
+msgid "Last 7 Days"
+msgstr ""
+
+#: views/crm_reports_view.php:79
+msgid "Last 30 Days"
+msgstr ""
+
+#: views/crm_reports_view.php:81 views/email/crm_email_support.php:133
+#: views/email/crm_imap_setup.php:60
+#: views/settings/crm_settings_general.php:143
+#: views/settings/crm_settings_general.php:204
+#: views/tickets/crm_tickets_all.php:458
+msgid "Premium"
+msgstr ""
+
+#: views/crm_reports_view.php:83
+msgid "Show Report"
+msgstr ""
+
+#: views/crm_reports_view.php:93
+#, fuzzy
+msgid "Last 7 Days status of new tickets :"
+msgstr "Đề xuất trong 7 ngày ngần đây"
+
+#: views/crm_reports_view.php:113
+msgid "Last 7 Days status of Agent Tickets :"
+msgstr ""
+
+#: views/crm_reports_view.php:160
+msgid "Last 7 Days status of New and Solved Tickets :"
+msgstr ""
+
+#: views/crm_reports_view.php:184
+#| msgid "Last 7 Days status of Agent Tickets :"
+msgid "Last 7 days Status of Tickets by Tags"
+msgstr ""
+
+#: views/crm_settings_view.php:35
+msgid "WooCommerce"
+msgstr ""
+
+#: views/crm_tickets_view.php:17
+#, fuzzy
+msgid "All Tickets"
+msgstr "Tất cả đề xuất"
+
+#: views/crm_tickets_view.php:22
+msgid "More"
+msgstr ""
+
+#: views/crm_tickets_view.php:29
+msgid "New Ticket"
+msgstr "Tạo đề xuất"
+
+#: views/crm_tickets_view.php:35
+msgid "Search"
+msgstr ""
+
+#: views/crm_tickets_view.php:35
+msgid "Search Tickets"
+msgstr ""
+
+#: views/email/crm_email_support.php:23
+msgid "WSDesk Debug Email"
+msgstr ""
+
+#: views/email/crm_email_support.php:23
+msgid "Enable this option to place e-mail logs in PHP error log file."
+msgstr ""
+
+#: views/email/crm_email_support.php:37 views/email/crm_email_support.php:170
+#: views/settings/crm_settings_general.php:148
+#: views/settings/crm_settings_general.php:161
+#: views/settings/crm_settings_general.php:174
+#: views/settings/crm_settings_general.php:233
+msgid "Enable"
+msgstr ""
+
+#: views/email/crm_email_support.php:44
+msgid "Support Reply Email Name"
+msgstr ""
+
+#: views/email/crm_email_support.php:45
+msgid "Enter name"
+msgstr ""
+
+#: views/email/crm_email_support.php:51
+#, fuzzy
+msgid "Support Reply Email"
+msgstr "Trả lời email hổ trợ"
+
+#: views/email/crm_email_support.php:52
+msgid "Enter Email"
+msgstr ""
+
+#: views/email/crm_email_support.php:62
+msgid "Available ShortCodes for Agent Reply Email"
+msgstr ""
+
+#: views/email/crm_email_support.php:73
+msgid "To Insert Ticket Number in the Reply"
+msgstr ""
+
+#: views/email/crm_email_support.php:82
+msgid "To Insert Ticket Assignee in the Reply"
+msgstr ""
+
+#: views/email/crm_email_support.php:91
+msgid "To Insert Ticket Tags in the Reply"
+msgstr ""
+
+#: views/email/crm_email_support.php:100
+msgid "To Insert Ticket Date and Time in the Reply"
+msgstr ""
+
+#: views/email/crm_email_support.php:109
+msgid "To Insert Ticket Content in the Reply"
+msgstr ""
+
+#: views/email/crm_email_support.php:118
+msgid "To Insert Ticket Agent who replied in the Reply"
+msgstr ""
+
+#: views/email/crm_email_support.php:127
+msgid "To Insert Ticket Status in the Reply"
+msgstr ""
+
+#: views/email/crm_email_support.php:136
+msgid "To Insert Latest Ticket Reply in the Reply"
+msgstr ""
+
+#: views/email/crm_email_support.php:147
+msgid "Enter your agent reply mail format"
+msgstr ""
+
+#: views/email/crm_email_support.php:167
+msgid "Send auto email on ticket creation"
+msgstr ""
+
+#: views/email/crm_filter_block_setup.php:15
+#, fuzzy
+msgid "Blocked Emails"
+msgstr "Email đã chặn"
+
+#: views/email/crm_filter_block_setup.php:16
+#: views/email/crm_filter_block_setup.php:41
+#: views/email/crm_filter_block_setup.php:65
+msgid "Add Filter"
+msgstr ""
+
+#: views/email/crm_filter_block_setup.php:25
+msgid "Delete Filter"
+msgstr ""
+
+#: views/email/crm_filter_block_setup.php:31
+msgid "There are no blocked email ! Block a new Email."
+msgstr ""
+
+#: views/email/crm_filter_block_setup.php:46
+msgid "Enter Details for New Block Address?"
+msgstr ""
+
+#: views/email/crm_filter_block_setup.php:47
+msgid "Enter Email or matchcase"
+msgstr ""
+
+#: views/email/crm_filter_block_setup.php:48
+msgid "Choose the blocking type?."
+msgstr ""
+
+#: views/email/crm_filter_block_setup.php:50
+msgid "Block Sending Emails"
+msgstr ""
+
+#: views/email/crm_filter_block_setup.php:51
+msgid "Block Receiving Emails"
+msgstr ""
+
+#: views/email/crm_filter_block_setup.php:64
+#, fuzzy
+msgid "Blocked Email Subjects"
+msgstr "Email đã chặn"
+
+#: views/email/crm_filter_block_setup.php:69
+msgid "There are no blocked subjects! Block a subject."
+msgstr ""
+
+#: views/email/crm_imap_setup.php:17
+#, fuzzy
+msgid ""
+"IMAP is not enabled on your server. Please contact your service provider."
+msgstr "Chưa bật IMAP"
+
+#: views/email/crm_imap_setup.php:20
+msgid "Have a Google account?"
+msgstr ""
+
+#: views/email/crm_imap_setup.php:20
+msgid "Use WSDesk Google OAuth setup."
+msgstr ""
+
+#: views/email/crm_imap_setup.php:35
+msgid "IMAP Server SSL URL"
+msgstr ""
+
+#: views/email/crm_imap_setup.php:35
+msgid ""
+"Copy Paste the IMAP URL provided by your respective hosting service "
+"provider. ( viz. imap.gmail.com )."
+msgstr ""
+
+#: views/email/crm_imap_setup.php:41
+msgid "IMAP Server SSL Port"
+msgstr ""
+
+#: views/email/crm_imap_setup.php:41
+msgid " Provide port number of your hosting service provider (993 for Gmail)."
+msgstr ""
+
+#: views/email/crm_imap_setup.php:47
+msgid "Email-ID"
+msgstr ""
+
+#: views/email/crm_imap_setup.php:47
+msgid "Enter email address from where emails are to be extracted."
+msgstr ""
+
+#: views/email/crm_imap_setup.php:53
+msgid "Enter password for your email address."
+msgstr ""
+
+#: views/email/crm_imap_setup.php:59
+msgid "Delete imported e-mail from the server"
+msgstr ""
+
+#: views/email/crm_imap_setup.php:59
+msgid "Enabling this will delete the e-mail after importing it as ticket."
+msgstr ""
+
+#: views/email/crm_imap_setup.php:70
+msgid "Deactivate IMAP"
+msgstr ""
+
+#: views/email/crm_imap_setup.php:77
+msgid "Activate IMAP"
+msgstr ""
+
+#: views/email/crm_imap_setup.php:81
+msgid "How to setup IMAP"
+msgstr ""
+
+#: views/email/crm_oauth_setup.php:12
+msgid "Google API client ID"
+msgstr ""
+
+#: views/email/crm_oauth_setup.php:12 views/email/crm_oauth_setup.php:18
+msgid ""
+"You would get this after completing the entire process of enabling gmail API "
+"and Google OAuth."
+msgstr ""
+
+#: views/email/crm_oauth_setup.php:18
+msgid "Google API Client Secret"
+msgstr ""
+
+#: views/email/crm_oauth_setup.php:28
+msgid "Access Token"
+msgstr ""
+
+#: views/email/crm_oauth_setup.php:34
+msgid "Refresh Token"
+msgstr ""
+
+#: views/email/crm_oauth_setup.php:47
+msgid "Deactivate OAuth"
+msgstr ""
+
+#: views/email/crm_oauth_setup.php:53
+msgid "Activate OAuth"
+msgstr ""
+
+#: views/email/crm_oauth_setup.php:57
+msgid "How to setup OAuth"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:24
+msgid "Activate Zendesk Import to Get all Zendesk Tickets"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:25
+#: views/import/crm_zendesk_import.php:68
+msgid "Activate Zendesk"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:37
+msgid "Importing Tickets may take some time..."
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:40
+msgid "Completed"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:48
+msgid "Stop Pulling Tickets to WSDesk"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:49
+msgid "Stoping Zendesk import..."
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:49
+msgid "Stop Import"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:55
+msgid "What is your plan in Zendesk?"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:55
+msgid "Importing speed depends on your plan"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:57
+msgid "Essential"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:58
+msgid "Team"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:59
+msgid "Professional"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:60
+msgid "Enterprise"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:61
+msgid "High Volume API Add-On (Professional or Enterprise)"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:67
+msgid "Enter your Zendesk Access Token"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:73
+msgid "Enter your Zendesk Subdomain"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:74
+msgid "Zendesk Subdomain"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:79
+msgid "Enter your Zendesk Username"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:80
+msgid "Zendesk Username"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:85
+msgid "Want to download attachment locally?"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:87
+msgid "Yes! Download"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:88
+#, fuzzy
+msgid " No! I do not want"
+msgstr "không cần"
+
+#: views/import/crm_zendesk_import.php:95
+msgid "Pull Tickets to WSDesk"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:96
+msgid "Pull Tickets"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:15
+#: views/support/crm_support_new.php:53 views/support/crm_support_page.php:11
+msgid "Submit Request"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:16
+#: views/support/crm_support_new.php:58
+msgid "Reset Request"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:17
+#: views/support/crm_support_new.php:63 views/support/crm_support_page.php:15
+msgid "Check your Existing Request"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:22
+msgid "Set custom width for form elements"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:29
+msgid "Support Form Title"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:33
+msgid "Set custom title for the main support form"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:33
+msgid ""
+"This title would appear in the page with the short code [wsdesk_support]."
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:40
+msgid "Set custom title for new support form"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:40
+msgid ""
+"This title would appear for any new form for both the short codes "
+"[wsdesk_support] and [wsdesk_support display=form]."
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:46
+msgid "Set custom title for the existing tickets"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:46
+msgid ""
+"This title would appear when you wish to display tickets in a separate page "
+"using the shortcode [wsdesk_support display=check_request]."
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:50
+msgid "Support Form Button"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:54
+msgid "Set custom text for the Submit Request button"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:60
+msgid "Set custom text for the Reset Request button"
+msgstr ""
+
+#: views/settings/crm_settings_appearance.php:66
+msgid "Set custom text for the Check Existing Ticket button"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:31
+#: views/settings/crm_settings_fields.php:95
+msgid "Add Field"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:36
+msgid "Inactive Fields"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:58
+msgid "Active Fields"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:100
+msgid "Which type of field do you need?"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:102
+msgid "Select the Type of Field"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:103
+msgid "Text Box"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:105
+msgid "Select"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:106
+msgid "Radio"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:107
+msgid "Checkbox"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:108
+msgid "Number"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:110
+msgid "Text Area"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:111
+#: views/tickets/crm_tickets_all.php:532
+msgid "Attachment"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:112
+msgid "IP Address (Premium)"
+msgstr ""
+
+#: views/settings/crm_settings_fields.php:124
+msgid "Edit Field"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:36
+msgid "Default Assignee"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:39
+msgid "Choose default assignee for new tickets"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:76
+msgid "Choose default status for new tickets"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:96
+msgid "Tickets Raisers"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:99
+msgid "Who can raise the tickets?"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:124
+msgid "All"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:125
+msgid "Registered Users"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:126
+msgid "Guest Users"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:133
+msgid "Tickets Row"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:136
+msgid "Number of tickets per page"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:143
+msgid "Auto Assign Tickets"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:146
+msgid "Want to auto assign tickets to the replier if the ticket is unassigned?"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:149
+#: views/settings/crm_settings_general.php:162
+#: views/settings/crm_settings_general.php:175
+msgid "Disable"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:156
+#| msgid "Auto Suggestion System"
+msgid "Auto Suggestion"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:159
+msgid "Want to enable auto suggestion for agent and ticket raisers?"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:169
+msgid "Custom Attachment Folder"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:172
+msgid "Want to enable custom folder for attachments?"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:182
+msgid "Maximum file size of attachments (MB)"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:185
+msgid "You can set maximum size of the attachments"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:185
+msgid "Default value: 1MB. Decimal values are allowed."
+msgstr ""
+
+#: views/settings/crm_settings_general.php:192
+msgid "Valid Attachment Extensions"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:195
+msgid "Select File Extensions"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:195
+msgid "Select nothing to make all extensions valid."
+msgstr ""
+
+#: views/settings/crm_settings_general.php:204
+msgid "Display Tickets As"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:207
+msgid "How would you like to display your tickets?"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:208
+msgid "HTML"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:209
+msgid "Text"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:216
+msgid "Create WordPress User"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:219
+msgid ""
+"Create wordpress user while guest user submitting the tickets through the "
+"form"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:240
+msgid "WSDesk API"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:243
+msgid "Create tickets via API from any website"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:262
+msgid "Enable API"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:265
+msgid "API Key:"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:265
+msgid "Please share this API Key only with trusted sources."
+msgstr ""
+
+#: views/settings/crm_settings_general.php:274
+msgid "Default Deep Link"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:280
+msgid "Add a default deep link here"
+msgstr ""
+
+#: views/settings/crm_settings_general.php:282
+msgid "Path: "
+msgstr ""
+
+#: views/settings/crm_settings_labels.php:14
+#: views/settings/crm_settings_labels.php:44
+msgid "Add Status"
+msgstr ""
+
+#: views/settings/crm_settings_labels.php:49
+msgid "Enter Details for new status"
+msgstr ""
+
+#: views/settings/crm_settings_labels.php:51
+msgid "Do you want to change the status color?."
+msgstr ""
+
+#: views/settings/crm_settings_labels.php:53
+msgid "Click and Pick the Color"
+msgstr ""
+
+#: views/settings/crm_settings_labels.php:55
+msgid "Want to use this status for filter tickets?"
+msgstr ""
+
+#: views/settings/crm_settings_labels.php:56
+msgid "Yes! I will use it for Filter"
+msgstr ""
+
+#: views/settings/crm_settings_labels.php:67
+msgid "Edit Status"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:26 views/welcome/welcome.php:503
+msgid "Premium WSDesk Features"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:32
+#: views/settings/crm_settings_premium.php:113
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:33
+#: views/settings/crm_settings_premium.php:114
+msgid "Live Demo of Pro Version"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:45
+msgid "Free Version"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:46
+#: views/settings/crm_settings_premium.php:77 views/welcome/welcome.php:517
+msgid "Auto Tagging And Assigning"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:47
+#: views/settings/crm_settings_premium.php:78 views/welcome/welcome.php:521
+msgid "Auto Suggestion System"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:48
+#: views/settings/crm_settings_premium.php:79 views/welcome/welcome.php:525
+msgid "Ticket Custom Views"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:50
+#: views/settings/crm_settings_premium.php:81
+#, fuzzy
+msgid "Automated Emails"
+msgstr "Email đã chặn"
+
+#: views/settings/crm_settings_premium.php:51
+#: views/settings/crm_settings_premium.php:82
+msgid "Bulk Edit & Merge Tickets"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:52
+#: views/settings/crm_settings_premium.php:83
+msgid "Change Requester E-Mail"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:53
+#: views/settings/crm_settings_premium.php:84 views/welcome/welcome.php:537
+msgid "Agent's Satisfaction Rating"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:54
+#: views/settings/crm_settings_premium.php:85 views/welcome/welcome.php:545
+msgid "WSDesk Backup & Restore"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:55
+#: views/settings/crm_settings_premium.php:86 views/welcome/welcome.php:541
+msgid "WooCommerce Fields & Reports"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:56
+#: views/settings/crm_settings_premium.php:87 views/welcome/welcome.php:549
+msgid "One Year Support & Updates"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:57
+msgid "7 Days Reports and Analysis"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:58
+msgid "Basic Short Codes Supported"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:59
+msgid "Text Content for Agent Reply"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:60
+msgid "Single Attachment Field"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:61
+msgid "Basic Features"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:62
+#: views/settings/crm_settings_premium.php:93
+msgid "100% GDPR compliant"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:63
+#: views/settings/crm_settings_premium.php:94
+msgid "Email Support System"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:64
+#: views/settings/crm_settings_premium.php:95
+msgid "Unlimited Agents"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:65
+#: views/settings/crm_settings_premium.php:96
+msgid "AJAX Based System"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:66
+#: views/settings/crm_settings_premium.php:97
+msgid "Wonderful UI"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:67
+#: views/settings/crm_settings_premium.php:98
+#, fuzzy
+#| msgid "Select Ticket Fields"
+msgid "Customizable Ticket Fields"
+msgstr "Loại đề xuất"
+
+#: views/settings/crm_settings_premium.php:68
+#: views/settings/crm_settings_premium.php:99
+msgid "Agents Management"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:69
+#: views/settings/crm_settings_premium.php:100
+msgid "Customizable Support Form"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:70
+#: views/settings/crm_settings_premium.php:101
+msgid "Attachment support"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:71
+#: views/settings/crm_settings_premium.php:102
+msgid "Import Zendesk Tickets"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:76
+msgid "Premium Version"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:88
+msgid "Unlimited Days Reports and Analysis"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:89
+msgid "Advanced Short Codes Supported"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:90
+msgid "Rich Content with Formatting Options"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:91
+msgid "Multiple Attachment Fields"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:92
+msgid "Advanced Convenience Features"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:110 views/welcome/welcome.php:565
+msgid "Do you want to get all the features or want to see the demo?"
+msgstr ""
+
+#: views/settings/crm_settings_tags.php:14
+#: views/settings/crm_settings_tags.php:43
+msgid "Add Tag"
+msgstr ""
+
+#: views/settings/crm_settings_tags.php:33
+msgid "There are no Tags! Create One Tag."
+msgstr ""
+
+#: views/settings/crm_settings_tags.php:49
+msgid "Enter Details for New Tag"
+msgstr ""
+
+#: views/settings/crm_settings_tags.php:51
+msgid "Select the Post which should be Tagged if required"
+msgstr ""
+
+#: views/settings/crm_settings_tags.php:54
+msgid "Want to use this Tag for Filter Tickets"
+msgstr ""
+
+#: views/settings/crm_settings_tags.php:67
+msgid "Edit Tag"
+msgstr ""
+
+#: views/settings/crm_settings_tags.php:76
+msgid "Save Ticket tags"
+msgstr ""
+
+#: views/support/crm_support_new.php:15
+msgid "You must Login to Raise Ticket"
+msgstr ""
+
+#: views/support/crm_support_new.php:16
+msgid "Need an Account"
+msgstr ""
+
+#: views/support/crm_support_new.php:24
+msgid "You must Logout to Raise Ticket"
+msgstr ""
+
+#: views/support/crm_support_new.php:24
+msgid "Logout"
+msgstr ""
+
+#: views/support/crm_support_new.php:168
+msgid "Submitting..."
+msgstr ""
+
+#: views/support/crm_support_new.php:183
+msgid "Powered by"
+msgstr ""
+
+#: views/support/crm_support_page.php:21
+msgid "Fetching Request Form..."
+msgstr ""
+
+#: views/support/crm_support_page.php:26
+msgid "Loading your Request..."
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:120
+msgid "Unassigned"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:206
+msgid "No Actions"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:230
+msgid "Tickets Filter"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:241
+msgid "Previous"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:252
+msgid "Next"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:262
+msgid "Filter Tickets"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:268
+msgid "View"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:270
+msgid "Requester"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:271
+msgid "Subject"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:272
+msgid "Requested"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:281
+msgid "No Tickets"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:460
+msgid "Reply Requester"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:461
+msgid "Raiser Voices"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:462
+msgid "Agent Voices"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:464
+msgid "Rating"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:465
+msgid "Source"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:537
+msgid "Submit as"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:554
+msgid "Submit as Note"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:555
+msgid "Notes visible to Agents and Supervisors"
+msgstr ""
+
+#: views/tickets/crm_tickets_all.php:569
+msgid "You do not have permisson to reply this ticket"
+msgstr ""
+
+#: views/welcome/welcome.php:30
+msgid "Start"
+msgstr ""
+
+#: views/welcome/welcome.php:35
+msgid "Support Setup"
+msgstr ""
+
+#: views/welcome/welcome.php:40
+msgid "Ticket  Fields"
+msgstr ""
+
+#: views/welcome/welcome.php:45
+msgid "Email Client"
+msgstr ""
+
+#: views/welcome/welcome.php:55
+msgid "Ready!"
+msgstr ""
+
+#: views/welcome/welcome.php:139
+msgid "WSDesk &rsaquo; Setup Wizard"
+msgstr ""
+
+#: views/welcome/welcome.php:157
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: views/welcome/welcome.php:171
+msgid "Thank you for choosing WSDesk to power your online support!"
+msgstr ""
+
+#: views/welcome/welcome.php:181
+msgid "Your helpdesk is ready!"
+msgstr ""
+
+#: views/welcome/welcome.php:190
+msgid "WSDesk - Quick Setup Wizard"
+msgstr ""
+
+#: views/welcome/welcome.php:260
+msgid ""
+"This quick setup wizard will help you configure the basic settings. <br/"
+"><strong>It's completely optional and shouldn't take longer.</strong>"
+msgstr ""
+
+#: views/welcome/welcome.php:261
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and configure it later under settings."
+msgstr ""
+
+#: views/welcome/welcome.php:263
+msgid "Not right now"
+msgstr ""
+
+#: views/welcome/welcome.php:264
+msgid "Let's setup now!"
+msgstr ""
+
+#: views/welcome/welcome.php:275
+msgid "Set your support page title and email ID."
+msgstr ""
+
+#: views/welcome/welcome.php:284
+msgid "WSDesk Support Page Title"
+msgstr ""
+
+#: views/welcome/welcome.php:286
+msgid "Title which will be displayed on your site"
+msgstr ""
+
+#: views/welcome/welcome.php:288
+msgid "Enter page title"
+msgstr ""
+
+#: views/welcome/welcome.php:298
+msgid "WSDesk Support Email"
+msgstr ""
+
+#: views/welcome/welcome.php:300
+msgid "The email ID which is used for support responses"
+msgstr ""
+
+#: views/welcome/welcome.php:312
+msgid "Starting Ticket ID"
+msgstr ""
+
+#: views/welcome/welcome.php:314
+msgid "You can set your first Ticket's ID here."
+msgstr ""
+
+#: views/welcome/welcome.php:316
+msgid "Default Ticket ID is 1"
+msgstr ""
+
+#: views/welcome/welcome.php:324 views/welcome/welcome.php:398
+#: views/welcome/welcome.php:435 views/welcome/welcome.php:461
+msgid "Skip this step"
+msgstr ""
+
+#: views/welcome/welcome.php:325
+msgid "Save & Continue"
+msgstr ""
+
+#: views/welcome/welcome.php:373
+msgid "Configure your support form fields"
+msgstr ""
+
+#: views/welcome/welcome.php:382
+msgid "Save your changes before going to next step."
+msgstr ""
+
+#: views/welcome/welcome.php:399 views/welcome/welcome.php:436
+#: views/welcome/welcome.php:462
+msgid "Continue"
+msgstr ""
+
+#: views/welcome/welcome.php:415
+msgid "Configure your Email client to create tickets"
+msgstr ""
+
+#: views/welcome/welcome.php:449
+msgid "Setup your support agents to handle tickets"
+msgstr ""
+
+#: views/welcome/welcome.php:477
+msgid "Have a WooCommerce Store? Upgrade to"
+msgstr ""
+
+#: views/welcome/welcome.php:486
+msgid "Configure your Helpdesk"
+msgstr ""
+
+#: views/welcome/welcome.php:487
+msgid "Go to Settings"
+msgstr ""
+
+#: views/welcome/welcome.php:490
+msgid "Get started with your first ticket"
+msgstr ""
+
+#: views/welcome/welcome.php:491
+msgid "Create a ticket!"
+msgstr ""
+
+#: views/welcome/welcome.php:495
+msgid "WSDesk Documentation"
+msgstr ""
+
+#: views/welcome/welcome.php:496
+msgid "Read how to setup Google OAuth."
+msgstr ""
+
+#: views/welcome/welcome.php:497
+msgid "How to import tickets from Zendesk?"
+msgstr ""
+
+#: views/welcome/welcome.php:533
+msgid "Customer Feedback Survey"
+msgstr ""
+
+#: views/welcome/welcome.php:553
+msgid "Many more on its way"
+msgstr ""
+
+#: views/welcome/welcome.php:566
+msgid "Start over with Pro Version"
+msgstr ""
+
+#: views/welcome/welcome.php:567
+msgid "See Live Demo of Pro Version"
+msgstr ""
+
+#: wsdesk.php:165
+msgid "Factory Reset"
+msgstr ""
+
+#: wsdesk.php:175
+msgid "Documentation"
+msgstr ""
+
+#: wsdesk.php:176
+msgid "Support"
+msgstr ""
+
+#~ msgid "No! Its an Optional Field"
+#~ msgstr "Non ! Ses un champ facultatif"
+
+#~ msgid "Setup Guides"
+#~ msgstr "Guides d'installation"
+
+#~ msgid "Contact Support"
+#~ msgstr "Contacter l’assistance"
+
+#~ msgid "Report Issue"
+#~ msgstr "Signaler un problème"
+
+#~ msgid "Your Tickets"
+#~ msgstr "Vos billets"
+
+#~ msgid "WSDesk - Wordpress HelpDesk & Support Ticket System (BASIC)"
+#~ msgstr "WSDesk - Wordpress HelpDesk & Support Ticket System (BASIC)"
+
+#~ msgid "https://wsdesk.com"
+#~ msgstr "https://wsdesk.com"
+
+#~ msgid ""
+#~ "Enhances your customer service and enables efficient handling of customer "
+#~ "issues."
+#~ msgstr ""
+#~ "Améliore votre service à la clientèle et permet une gestion efficace des "
+#~ "problèmes à la clientèle."
