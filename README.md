@@ -1,2 +1,2 @@
 # wsdesk-vi
-Viet hoa plugin wsdesk
+Việt hóa plugin WSdesk
